@@ -6,4 +6,3 @@ node_modules/
 # VuePress Temp
 **/.vuepress/.temp/
 **/.vuepress/dist/
-package-lock.json
