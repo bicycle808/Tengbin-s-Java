@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+.idea
+# VuePress Cache
+**/.vuepress/.cache/
+# VuePress Temp
+**/.vuepress/.temp/
+package-lock.json
